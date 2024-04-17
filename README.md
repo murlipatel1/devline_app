@@ -48,11 +48,6 @@ This is a _responsive web application_ for viewing in both Mobile and Desktop.
 
 MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
-## Hosted/Deployed
-
-https://textalot.herokuapp.com/
-
-
 ### Env Variables
 
 Create a .env file in the root and add the following
