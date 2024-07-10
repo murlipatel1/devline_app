@@ -30,7 +30,12 @@ This is a _responsive web application_ for viewing in both Mobile and Desktop.
 
 <ul>
  <li>Login/Signup as well as Logout feature is added </li>
+ ![image](https://github.com/murlipatel1/devline_app/assets/100035961/5cc873d1-c610-4152-bec9-6bc7fb3489bd)
+
+ ![image](https://github.com/murlipatel1/devline_app/assets/100035961/db148abd-4fec-488c-b92b-0ab615e3d45c)
+
  <li>Guest User Login added</li>
+ 
  <li>Error will be shown if the credentials are not correct</li>
 </ul>
 
@@ -42,6 +47,21 @@ This is a _responsive web application_ for viewing in both Mobile and Desktop.
  <li> Read / Unread status of conversation is supported
  <li> All the conversation are stored in the database i.e. <i>persistant</i>
 </ul>
+ 
+## Frontend Screenshot
+
+### Login and SignUp
+![image](https://github.com/murlipatel1/devline_app/assets/100035961/58854d3a-9e9d-4667-b23a-0e935eca162f)
+
+### Group Chat 
+![image](https://github.com/murlipatel1/devline_app/assets/100035961/37bccdf2-0146-43f3-89ce-c89bcb4ca891)
+
+### Search User
+![image](https://github.com/murlipatel1/devline_app/assets/100035961/3a54045e-84b9-4416-8a4f-917e48565fe6)
+
+## Database
+
+![image](https://github.com/murlipatel1/devline_app/assets/100035961/11e7320a-c5a7-43e7-b232-0235aab30979)
 
 
 ## Tech Stack
